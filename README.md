@@ -7,6 +7,17 @@ Criar uma aplicação web simples e funcional que permita o gerenciamento de inf
 
 ---
 
+
+## 🖼️ Preview do Sistema
+
+<img width="1084" height="528" alt="image" src="https://github.com/user-attachments/assets/3c67c88b-d1e9-44ae-acd6-7ed09130d2a1" />
+
+
+> 📷 *Tela principal do sistema com o menu lateral, seções de Dados Pessoais, Formação e Experiência Profissional.*
+
+---
+
+
 ## 🧩 Estrutura do Sistema
 
 O sistema segue o modelo **MVC**, dividido em:
@@ -60,6 +71,10 @@ O projeto utiliza o framework **W3.CSS** e ícones da **Font Awesome**, conforme
 ✅ **Agenda 10:** Revisão da arquitetura MVC.  
 ✅ **Agenda 11:** Criação da Camada View — Login, Primeiro Acesso, Principal.  
 ✅ **Agenda 12:** Finalização da View — inclusão de Outras Formações e homologação da interface.  
+
+<img width="1092" height="541" alt="image" src="https://github.com/user-attachments/assets/01d7b37f-6000-44c5-a618-0dbc9df1a6f8" />
+
+<img width="1108" height="597" alt="image" src="https://github.com/user-attachments/assets/f4ab7ca2-57a8-4021-9186-9aa53b8d0257" />
 
 📌 **Próximos Passos:**  
 Implementação das camadas **Controller** e **Model** para integração total do sistema.
