@@ -75,9 +75,3 @@ O projeto utiliza o framework **W3.CSS** e ícones da **Font Awesome**, conforme
 <img width="1092" height="541" alt="image" src="https://github.com/user-attachments/assets/01d7b37f-6000-44c5-a618-0dbc9df1a6f8" />
 
 <img width="1108" height="597" alt="image" src="https://github.com/user-attachments/assets/f4ab7ca2-57a8-4021-9186-9aa53b8d0257" />
-
-📌 **Próximos Passos:**  
-Implementação das camadas **Controller** e **Model** para integração total do sistema.
-
-
-
