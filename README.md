@@ -346,4 +346,40 @@ onde o **Controller** atua como ponte entre a lógica do usuário e a base de da
 
 ---
 
+## ⚙️ **Agenda 14 – Implementação Final e Módulo Administrativo**
+
+Na **Agenda 14**, implementamos o **último módulo do sistema**, permitindo que o **Administrador visualize todos os dados dos usuários** cadastrados.
+
+### 🔹 Novas Páginas Criadas
+- **`ADMListarCadastrados.php`** → lista todos os usuários.  
+- **`ADMVisualizarCadastro.php`** → exibe os dados completos de um usuário selecionado.  
+
+Cada linha da tabela de listagem contém o botão **“Visualizar”**, que redireciona o administrador à página detalhada do usuário.
+
+### 🔹 Novos Métodos Implementados
+- `UsuarioController::gerarLista()` — lista todos os usuários cadastrados.  
+- `UsuarioController::buscarUsuarioPorId()` — retorna os dados de um usuário específico.  
+- Atualização do `Navegacao.php` com as rotas administrativas.
+
+### 🔹 Padrões e Layout
+- Estrutura baseada em **W3.CSS** com cartões (`w3-card`) e tabelas (`w3-table-all`).  
+- Uso de ícones **Font Awesome** para facilitar a navegação.  
+- Layout intuitivo com botões arredondados e cores padronizadas.
+
+---
+
+<img width="1353" height="554" alt="image" src="https://github.com/user-attachments/assets/61ed1a2d-a67f-4861-b8cd-5c76668bab2b" />
+<br>
+<img width="1360" height="554" alt="image" src="https://github.com/user-attachments/assets/d67dafc6-21c0-4cbf-818b-b7fab630d9db" />
+<br>
+<img width="1365" height="447" alt="image" src="https://github.com/user-attachments/assets/88b95b9e-482f-4797-81d7-7beb3e8ac8c7" />
+<br>
+<img width="1157" height="590" alt="image" src="https://github.com/user-attachments/assets/02d12730-3070-4dd7-b992-1273caebb195" />
+<br>
+<img width="1073" height="545" alt="image" src="https://github.com/user-attachments/assets/f0448304-9b33-4055-bcb2-26749adf1771" />
+
+
+
+
+
 
